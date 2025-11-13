@@ -29,7 +29,7 @@ function Checkbox({ checked, indeterminate }) {
 }
 
 function App() {
-  // Start with all pages unchecked
+  
   const [selectedPages, setSelectedPages] = useState(() =>
     Array(PAGES.length).fill(false)
   );
