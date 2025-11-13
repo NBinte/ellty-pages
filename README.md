@@ -42,4 +42,6 @@ npm run dev
 ```
 
 ## Links
-[Source Code:](https://github.com/NBinte/ellty-pages)
+
+[Live Demo](https://ellty-pages.vercel.app)
+[Source Code](https://github.com/NBinte/ellty-pages)
